@@ -1,0 +1,7 @@
+C:\Users\mauos\OneDrive\Área de Trabalho\PetShopCSharp\obj\Debug\net7.0\PetShopC#.csproj.AssemblyReference.cache
+C:\Users\mauos\OneDrive\Área de Trabalho\PetShopCSharp\obj\Debug\net7.0\PetShopC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauos\OneDrive\Área de Trabalho\PetShopCSharp\obj\Debug\net7.0\PetShopC#.AssemblyInfoInputs.cache
+C:\Users\mauos\OneDrive\Área de Trabalho\PetShopCSharp\obj\Debug\net7.0\PetShopC#.AssemblyInfo.cs
+C:\Users\mauos\OneDrive\Área de Trabalho\PetShopCSharp\obj\Debug\net7.0\PetShopC#.csproj.CoreCompileInputs.cache
+C:\Users\mauos\OneDrive\Área de Trabalho\PetShopCSharp\obj\Debug\net7.0\PetShopC#.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mauos\OneDrive\Área de Trabalho\PetShopCSharp\obj\Debug\net7.0\PetShopC#.MvcApplicationPartsAssemblyInfo.cache
